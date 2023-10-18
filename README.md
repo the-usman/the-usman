@@ -1,3 +1,4 @@
+![logo](https://github.com/the-usman/the-usman/blob/main/images_2.png)
 <h1 align="center">Hi 👋, I'm Usman Javed</h1>
 <h3 align="center">A passionate MERN Stack developer and starts my journey in Machine Learning</h3>
 
