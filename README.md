@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usman Javed</h1>
 <h3 align="center">A passionate MERN Stack developer and starts my journey in Machine Learning</h3>
 
+<img algin="right" alt="coding" width="400" src="![image](https://github.com/the-usman/the-usman/assets/132537746/e26930e5-7bd9-415f-ae55-c8e1b1750d04)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-usman&label=Profile%20views&color=0e75b6&style=flat" alt="the-usman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-usman" alt="the-usman" /></a> </p>
