@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-usman&label=Profile%20views&color=0e75b6&style=flat" alt="the-usman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-usman" alt="the-usman" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/theusman0" target="blank"><img src="https://img.shields.io/twitter/follow/theusman0?logo=twitter&style=for-the-badge" alt="theusman0" /></a> </p>
 
