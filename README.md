@@ -37,5 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-usman&show_icons=true&locale=en" alt="the-usman" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=the-usman&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-usman" alt="the-usman" /></a> </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=gruvbox-duo&border_radius=13.7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
