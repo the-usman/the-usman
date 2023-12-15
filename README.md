@@ -1,5 +1,5 @@
 ![logo](https://github.com/the-usman/the-usman/blob/main/images_2.png)
-<h1 align="center">Hi 👋, I'm Usman Javed</h1>
+<h1 align="center">Hi 👋, I am Usman Javed</h1>
 <h3 align="center">A MERN Stack developer and starts my journey in Machine Learning</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
