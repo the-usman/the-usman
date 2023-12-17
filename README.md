@@ -17,8 +17,6 @@
 
 - 🤝 I’m looking for help with **ShareHive**
 
-- 💬 Ask me about **React, Node js**
-
 - 📫 How to reach me **theusman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
