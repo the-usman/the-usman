@@ -40,8 +40,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-usman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-usman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=the-usman&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=the-usman&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-usman&radius=16&theme=high-contrast&area=true&order=5&color=FFD700&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
