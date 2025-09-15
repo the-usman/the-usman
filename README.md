@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **ShareHive**
 
-- 📫 How to reach me **theusman@gmail.com**
+- 📫 How to reach me **theusman620@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
